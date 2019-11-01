@@ -3,17 +3,13 @@ lexical_investigation
 =====================
 
 
-Add a short description here!
+Code included for paper presented at ALTA 2019
 
 
 Description
 ===========
 
-A longer description of your project goes here...
+src/lexical_investigation includes code for running experiments
+src/pubmed_extraction contains code for preprocessing PMC data
 
-
-Note
-====
-
-This project has been set up using PyScaffold 3.2.3. For details and usage
-information on PyScaffold see https://pyscaffold.org/.
+More descriptions to follow.
